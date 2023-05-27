@@ -307,7 +307,7 @@ def rectangle():
 
 def laggen():
 
-    while True;:
+    while True:
 
         print("   █   █   █   █   █   █   █   █   █   █   █   █   █   █")
 
